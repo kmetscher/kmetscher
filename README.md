@@ -1,9 +1,4 @@
-# Kyle Metscher
-## Bachelor of Science, Computer Science, Western Governors University (In Progress)
-## howdy@kylemetscher.com
-Files for my personal website will go here, along with other projects that will inevitably spring up
+I like to play with things until they break.
 
-<!---
-kmetscher/kmetscher is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- [LinkedIn](https://www.linkedin.com/in/c0w80yd4n)
+- [Blog](https://kylemetscher.com)
